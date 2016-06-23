@@ -6,7 +6,7 @@ Feel free to use them in your non-commercial work. Credits in any form are appre
 <table border="0">
   <tr>
     <td width="220">
-      <img src="https://github.com/szellmann/models/blob/master/chess/chess.png" alt="chess" width="200" />
+      <a href="https://github.com/szellmann/models/tree/master/chess"><img src="https://github.com/szellmann/models/blob/master/chess/chess.png" alt="chess" width="200" /></a>
     </td>
     <td width="220">
       <img src="https://github.com/szellmann/models/blob/master/chess/chess_anaglyphic.png" alt="chess" width="200" />

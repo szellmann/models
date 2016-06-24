@@ -12,7 +12,11 @@
     <td width="220">
       <a href="https://github.com/szellmann/models/tree/master/chess"><img src="https://github.com/szellmann/models/blob/master/chess/chess_anaglyphic.png" alt="chess" width="200" /></a>
     </td>
+    <td width="220">
+      <a href="https://github.com/szellmann/models/tree/master/street_furniture"><img src="https://github.com/szellmann/models/blob/master/street_furniture/lantern_scene.png" alt="chess" width="200" /></a>
+    </td>
   </tr>
+  
 </table>
 
 ## License

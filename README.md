@@ -1,8 +1,6 @@
 3D Models
 =========
 
-Feel free to use them in your non-commercial work. Credits in any form are appreciated but not mandatory.
-
 <table border="0">
   <tr>
     <td width="220">
@@ -16,3 +14,7 @@ Feel free to use them in your non-commercial work. Credits in any form are appre
     </td>
   </tr>
 </table>
+
+## License
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/3.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/2.0/88x31.png" /></a>
